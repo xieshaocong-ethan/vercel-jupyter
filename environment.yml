@@ -6,3 +6,6 @@ dependencies:
   - xeus-python
   - numpy
   - ipecharts
+  - pandas
+  - requests
+  - backoff
