@@ -9,5 +9,4 @@ dependencies:
   - pandas
   - requests
   - backoff
-  - pyarrow
   - tqdm
